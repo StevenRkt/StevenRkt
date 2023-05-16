@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A web developer
+A web developer from Madagascar
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,react,wordpress)](https://skillicons.dev)
 <!--
