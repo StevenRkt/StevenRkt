@@ -2,7 +2,7 @@
 
 A web developer from Madagascar
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,react,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,wordpress)](https://skillicons.dev)
 <!--
 **StevenRkt/StevenRkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
